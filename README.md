@@ -1,3 +1,5 @@
+# :warning: Official repository moved to [https://github.com/NemProject/nem-library-ts](https://github.com/NemProject/nem-library-ts)
+
 # NEM Library
 
 ![NEM Library Logo](nemLibraryLogo.jpg)
